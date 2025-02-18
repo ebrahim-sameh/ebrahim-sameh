@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebrahim-sameh&show_icons=true&locale=en" alt="ebrahim-sameh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-sameh&theme=default" alt="ebrahim-sameh" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/05afca1a8707d565cfcb3b349f2334be495060388b1417ea296798fdb2fbd378/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6562726168696d2d73616d6568267468656d653d64656661756c74" alt="ebrahim-sameh" /></p>
