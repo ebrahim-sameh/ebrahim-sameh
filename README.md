@@ -73,26 +73,27 @@ I'm a software engineer from Egypt who loves turning ideas into products. I buil
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ebrahim-sameh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebrahim-sameh&theme=tokyonight" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-sameh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim-sameh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebrahim-sameh&theme=tokyonight" alt="Top Languages by Repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebrahim-sameh&theme=tokyonight" alt="Top Languages by Commit" />
 
 </div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahim-sameh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrahim-sameh&theme=tokyonight" width="100%" alt="Contribution Graph" />
 
 ---
 
 ### Snake eating my contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebrahim-sameh/ebrahim-sameh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahim-sameh/ebrahim-sameh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahim-sameh/ebrahim-sameh/output/github-snake-dark.svg" />
-</picture>
+<div align="center">
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ebrahim-sameh/ebrahim-sameh/output/github-snake-dark.svg" />
+
+</div>
 
 ---
 
@@ -110,6 +111,6 @@ I'm a software engineer from Egypt who loves turning ideas into products. I buil
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ebrahim-sameh&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=ebrahim-sameh&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 
 </div>
