@@ -11,13 +11,19 @@
 
 ---
 
-### Hey, I'm Ebrahim
+### About me
 
-I'm a software engineer from Egypt who loves turning ideas into products. I build full-stack web apps, mobile apps, and lately I've been diving deep into AI & machine learning. With 87+ repositories, I'm always shipping something new.
+Ebrahim Sameh is a software engineer and serial founder based in Alexandria, Egypt, and CTO at Zaher.AI, a GEO and SEO agency serving MENA. He builds web platforms, AI systems and internal tools, and he founded or co-founded three companies in Alexandria before Zaher.AI: RoboCoach in 2017, No2ta in 2019 and Koodera in 2023. He works in Arabic and English, and takes on fractional CTO work.
 
-- Currently building **startup products** end-to-end
-- Studying **Machine Learning** & **Neural Networks**
-- Love working across the entire stack — from databases to pixels
+- [Website](https://ebrahimsameh.com/?utm_source=github&utm_medium=profile)
+- [Services](https://ebrahimsameh.com/services/?utm_source=github&utm_medium=profile)
+- [Blog](https://ebrahimsameh.com/blog/?utm_source=github&utm_medium=profile)
+
+Projects:
+
+- [shotpaste](https://ebrahimsameh.com/projects/shotpaste/?utm_source=github&utm_medium=profile)
+- [OpenSRE contributions](https://ebrahimsameh.com/projects/opensre-contributions/?utm_source=github&utm_medium=profile)
+- [Guardix](https://ebrahimsameh.com/projects/guardix/?utm_source=github&utm_medium=profile)
 
 ---
 
